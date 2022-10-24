@@ -824,7 +824,7 @@ header .links i:last-of-type {
         flex-direction: column;
     }
     .subscribe p {
-        width: 100%;
+        width: 100vw;
     }
 }
 /* End Subscribe */
